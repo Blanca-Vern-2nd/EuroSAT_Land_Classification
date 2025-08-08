@@ -66,7 +66,7 @@ To build an accurate and reliable machine learning system capable of classifying
 
 ## 📄 Project Report
 
-- [View Project Presentation (PDF)](https://drive.google.com/file/d/1DFmBVv8be5E9Jj3JTXpGpH4sKDnuFoPl/view?usp=drive_link)
+- [View Project Presentation (PDF)](https://docs.google.com/presentation/d/1B9wKi_e0ep9A0XUaOAoqPJgI0GHxUhpU/edit?usp=sharing&ouid=114973997576517566639&rtpof=true&sd=true)
 
 ---
 
